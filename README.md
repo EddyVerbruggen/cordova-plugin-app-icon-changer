@@ -1,5 +1,14 @@
 # Cordova App Icon Changer
-by [Eddy Verbruggen](http://twitter.com/eddyverbruggen)
+
+[![NPM version][npm-image]][npm-url]
+[![Downloads][downloads-image]][npm-url]
+[![Twitter Follow][twitter-image]][twitter-url]
+
+[npm-image]:http://img.shields.io/npm/v/cordova-plugin-app-icon-changer.svg
+[npm-url]:https://npmjs.org/package/cordova-plugin-app-icon-changer
+[downloads-image]:http://img.shields.io/npm/dm/cordova-plugin-app-icon-changer.svg
+[twitter-image]:https://img.shields.io/twitter/follow/eddyverbruggen.svg?style=social&label=Follow%20me
+[twitter-url]:https://twitter.com/eddyverbruggen
 
 <img src="https://github.com/EddyVerbruggen/cordova-plugin-app-icon-changer/raw/master/media/demo.gif" width="373px" height="688px" />
 
@@ -85,7 +94,3 @@ The plist file can be edited in Xcode, or with your favorite text editor. If you
 ```
 
 > Need iPad support as well? Just duplicate that plist config and change `<key>CFBundleIcons</key>` to `<key>CFBundleIcons~ipad</key>`.
-
-
-## Changelog
-* 1.0.0  Initial release.
